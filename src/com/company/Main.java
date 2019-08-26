@@ -11,7 +11,6 @@ public class Main {
 
          System.out.println((a + b) / a * b);
 //Не понимаю, почему у меня делит до 300, а не до 100
-
             }
             }
 
