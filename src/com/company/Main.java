@@ -15,7 +15,11 @@ public class Main {
                 if (i % 3 == 0|| i % 5 == 0)
                     System.out.println(i + "");
             }
-            }
-            }
+          System.out.println("Sub2");
+        for (int i = 1; i <= 100; i++) {
+            if (i / 10 % 2 == 1) 
+            if (i % 3 == 0 ^ i % 5 == 0)
+                System.out.println(i + "");}
+            }}
 
 
